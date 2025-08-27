@@ -8,14 +8,13 @@
     "paginationPortfolioNext": "Next Portfolio"
   },
   "headerOffcanvas": {
-    "description": "We are a digital agency that helps businesses create immersive experiences.",
+    "description": "We are a plumbing and handyman service that turns your home improvement dreams into reality.",
     "buttonLabel": "Let’s Talk With Us"
   },
   "navigation": {
     "buttonLabel": "Get Started"
   },
   "footer": {
-    "copyright": "Copyright © {{ year }} by your company / Crafted with [Getastrothemes](https://getastrothemes.com/)",
-    "_comment": "We kindly appreciate it if you retain the theme copyright. Thank you for supporting Getastrothemes!"
+    "copyright": "Copyright © {{ year }} - Red Pipe Services",
   }
 }
