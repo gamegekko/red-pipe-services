@@ -5,15 +5,15 @@
   --leading-inherit: inherit;
 
   /* Colors */
-  --color-primary: #f52a3f;
+  --color-primary: #ad0808;
   --color-secondary: #75131d;
-  --color-accent: #f52a3f;
+  --color-accent: #ff9b2b;
   --color-accent-blue: #1601ac;
   --color-body: #fff;
   --color-body-dark: #070800;
   --color-border-light: #e5e5e5;
   --color-border-dark: #292525;
-  --color-theme-dark: #0e1118;
+  --color-theme-dark: #600404;
   --color-theme-darker: #131312;
   --color-theme-light: #f6f5f3;
   --color-text-default: #2e2e2e;
