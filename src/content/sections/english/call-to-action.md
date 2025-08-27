@@ -1,9 +1,9 @@
 ---
 # For Updating Contact Info Like Email, Phone Number, Address, etc. Please update in `src/config/config.toml` `settings.contactInfo` table
 enable: true # Control the visibility of this section across all pages where it is used
-title: "Let’s Work Together"
+title: "Let's Make Dreams Happen"
 description: |
-  We are digital agency that helps businesses develop immersive and engaging user experiences
+  We are a plumbing and handyman service that turns your home improvement dreams into reality.
 
 button:
   enable: true
