@@ -87,9 +87,9 @@
 
   # Global Contact Information
   [settings.contactInfo]
-    address = "27 Division St, New York, <br /> NY 10002, USA"
-    email   = "[folex.agency@mail.com](mailto:folex.agency@mail.com)"
-    phone   = "[+1 800 123 654 987](tel:+1800123654987)"
+    address = "600 Cabrillo Park Ct. Apt 12, Aptos, <br /> CA 95003, USA"
+    email   = "[info@redpipeservices.com](mailto:info@redpipeservices.com)"
+    phone   = "[+1 480 313 9691](tel:+14803139691)"
 
   # Header Offcanvas Configuration
   # Update social links in `src/config/social.json`
@@ -100,7 +100,7 @@
 
     # Call To Action Button
     [settings.headerOffcanvas.button]
-      enable = true
+      enable = false
       label  = "" # Check src/i18n/en.json and src/i18n/fr.json for changing the button label in different languages or directly add value here if you are not using internationalization feature
       url    = "/"
 
