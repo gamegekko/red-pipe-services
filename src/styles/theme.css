@@ -53,3 +53,6 @@
   --text-h5-sm: calc(var(--text-h5) * 0.9);
   --text-h6-sm: calc(var(--text-h6) * 0.9);
 }
+.bg-black {
+  background-color: #600404 !important; /* your desired color */
+}
