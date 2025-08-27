@@ -6,7 +6,7 @@ titleSize: "display-2" # If your title text is larger, use a smaller text size l
 title: "Helping You Build <br /> Your Dreams"
 
 image: "/images/banner/startup.png"
-description: "In every job that must be done, there is an element of fun. We make dreams happen."
+description: "In every job that must be done, there is an element of fun. <br/> We make dreams happen."
 
 button:
   # Refer to the `sharedButton` schema in `src/sections.schema.ts` for all available configuration options (e.g., enable, label, url, hoverEffect, variant, icon, tag, rel, class, target, etc.)
