@@ -16,5 +16,6 @@
   },
   "footer": {
     "copyright": "Copyright © {{ year }} - Red Pipe Services",
+    "_comment": "We kindly appreciate it if you retain the theme copyright. Thank you for supporting Getastrothemes!"
   }
 }
