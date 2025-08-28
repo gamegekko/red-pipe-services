@@ -1,7 +1,7 @@
 # Site Configuration
 [site]
   title            = "Red Pipe Services" # Shared title for SEO and OpenGraph
-  description      = "A highly customizable creative agency business theme built with Tailwind CSS and Astro Js" # Shared description for SEO and OpenGraph
+  description      = "Handyman and plumbing services located in the metro Phoenix area." # Shared description for SEO and OpenGraph
   tagline          = "Professional, Reliable, Accountable"
   taglineSeparator = "" # default is " - " 
   baseUrl          = "https://redpipeservices.com" # Base URL for the site and used in OpenGraph meta tags.
@@ -64,7 +64,7 @@
   # Contact form settings
   # Available providers: "formspree", "formsubmit.co", "netlify"
   # Available actions: "https://formspree.io/f/form_id", "https://formsubmit.co/your_email@example.com", "/"
-  contactFormAction   = "https://formsubmit.co/your_email@example.com"
+  contactFormAction   = "https://formsubmit.co/info@redpipeservices.com"
   contactFormProvider = "formsubmit.co"
 
   footerDescription = "" # Check src/i18n/en.json and src/i18n/fr.json for changing the footer description in different languages or directly add value here if you are not using internationalization feature
