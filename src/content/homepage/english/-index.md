@@ -1,4 +1,4 @@
 ---
-title: "Home"
-metaDescription: "This is a example description"
+title: "Red Pipe Services - Construction & Plumbing"
+metaDescription: "Construction and Plumbing service provider in the Phoenix Metro area."
 ---
