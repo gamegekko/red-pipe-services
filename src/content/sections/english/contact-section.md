@@ -1,6 +1,6 @@
 ---
 enable: true # Control the visibility of this section across all pages where it is used
-title: "Have Any Project on Your Mind?"
+title: "Dreaming of home improvement?"
 description: "Great! We're excited to hear from you and let's start something"
 
 # image: "/images/about-us/about-one.jpg"
@@ -35,7 +35,7 @@ map:
 #       # Refer to the `sharedButton` schema in `src/sections.schema.ts` for all available configuration options (e.g., enable, label, url, hoverEffect, variant, icon, tag, rel, class, target, etc.)
 #       enable: true
 #       label: "Send Message"
-#       url: "mailto:folex.agency@mail.com"
+#       url: "mailto:info@redpipeservices.com"
 #       # hoverEffect: "" # Optional: text-flip | creative-fill | magnetic | magnetic-text-flip
 #       # variant: "" # Optional: fill | outline | text | circle
 #       # rel: "" # Optional
