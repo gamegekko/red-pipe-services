@@ -25,7 +25,7 @@ list:
       # variant: "" # Optional: fill | outline | text | circle
       # rel: "" # Optional
       # target: "" # Optional
-  - enable: true
+  - enable: false
     name: "Startup"
     description: "We care about their success. For us real relationships feel real"
     price:
@@ -47,7 +47,7 @@ list:
       # variant: "" # Optional: fill | outline | text | circle
       # rel: "" # Optional
       # target: "" # Optional
-  - enable: true
+  - enable: false
     name: "Corporate"
     description: "We care about their success. For us real relationships feel real"
     price:
