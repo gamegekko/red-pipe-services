@@ -1,6 +1,6 @@
 ---
 enable: true # Control the visibility of this section across all pages where it is used
-title: "Dreaming of home improvement?"
+title: "Dreaming of home improvement??"
 description: "Great! We're excited to hear from you and let's start something"
 
 # image: "/images/about-us/about-one.jpg"
@@ -59,7 +59,7 @@ map:
 # Check config.toml file for form action related settings
 # this is also used in the footer of the personal portfolio homepage
 form:
-  emailSubject: "New form submission from folex website" # Customized email subject (applicable when anyone submit form, form submission may receive by email depend on provider)
+  emailSubject: "New Web-Form Submission from Red Pipe Services Contact Page" # Customized email subject (applicable when anyone submit form, form submission may receive by email depend on provider)
   submitButton:
     # Refer to the `sharedButton` schema in `src/sections.schema.ts` for all available configuration options (e.g., enable, label, url, hoverEffect, variant, icon, tag, rel, class, target, etc.)
     enable: true
@@ -96,40 +96,23 @@ form:
         search: # if type is search then it will work
           placeholder: ""
         items:
-          - label: "General Inquiry"
-            value: "General Inquiry"
+          - label: "Plumbing Inquiry"
+            value: "Plumbing Inquiry"
             selected: false
-          - label: "Partnership Opportunity"
-            value: "Partnership Opportunity"
+          - label: "Remodel Inquiry"
+            value: "Remodel Inquiry"
             selected: false
-          - label: "Investment Opportunity"
-            value: "Investment Opportunity"
+          - label: "General Service Inquiry"
+            value: "General Service Inquiry"
             selected: false
+
     - label: ""
-      placeholder: "Subject With Search *"
-      name: "Subject With Search" # This is crucial. Its indicate under which name you want to receive this field data
+      placeholder: "Phone Number *"
+      name: "Phone Number" # This is crucial. Its indicate under which name you want to receive this field data
       required: false
+      type: "phone"
       halfWidth: true
-      dropdown:
-        type: "search" # select | search - default is select
-        search: # if type is search then it will work
-          placeholder: "Subject With Search"
-        items:
-          - label: "General Inquiry"
-            value: "General Inquiry"
-            selected: false
-          - label: "Partnership Opportunity"
-            value: "Partnership Opportunity"
-            selected: false
-          - label: "Career Opportunity"
-            value: "Career Opportunity"
-            selected: false
-          - label: "Investment Opportunity"
-            value: "Investment Opportunity"
-            selected: false
-          - label: "Media Inquiry"
-            value: "Media Inquiry"
-            selected: false
+      defaultValue: ""
     - label: ""
       tag: "textarea"
       defaultValue: ""
