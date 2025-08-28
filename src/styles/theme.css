@@ -5,7 +5,7 @@
   --leading-inherit: inherit;
 
   /* Colors */
-  --color-primary: #ad0808;
+  --color-primary: #2c0101;
   --color-secondary: #75131d;
   --color-accent: #FFFEF2;
   --color-accent-blue: #1601ac;
@@ -18,7 +18,7 @@
   --color-theme-light: #f6f5f3;
   --color-text-default: #2e2e2e;
   --color-dark: #0a0c00;
-  --color-light: #f6f5f3;
+  --color-light: #f90b0b;
 
   /* Screen */
   --breakpoint-*: initial;
