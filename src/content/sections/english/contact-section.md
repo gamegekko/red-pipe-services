@@ -107,7 +107,7 @@ form:
             selected: false
 
     - label: ""
-      placeholder: "Phone Number *"
+      placeholder: "Phone Number"
       name: "Phone Number" # This is crucial. Its indicate under which name you want to receive this field data
       required: false
       type: "phone"
@@ -154,7 +154,7 @@ form:
     #   type: "radio"
     #   halfWidth: true
     #   defaultValue: ""
-    - label: "I agree to the terms and conditions and [privacy policy](/)." # only valid for type="checkbox" & type === "radio"
+    - label: "I would like to be contacted regarding my inquiry at my provided phone or email address." # only valid for type="checkbox" & type === "radio"
       id: "privacy-policy"
       name: "Agreed Privacy" # This is crucial. Its indicate under which name you want to receive this field data
       value: "Agreed" # Value that will be submit (applicable for type="checkbox" & type === "radio")
