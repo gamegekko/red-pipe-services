@@ -89,7 +89,7 @@
   [settings.contactInfo]
     address = "600 Cabrillo Park Ct. Apt 12, Aptos, <br /> CA 95003, USA"
     email   = "[info@redpipeservices.com](mailto:info@redpipeservices.com)"
-    phone   = "[+1 480 313 9691](tel:+14803139691)"
+    phone   = "[+1 408 867 5309](tel:+14088675309)"
 
   # Header Offcanvas Configuration
   # Update social links in `src/config/social.json`
