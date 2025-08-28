@@ -3,7 +3,7 @@ enable: true # Control the visibility of this section across all pages where it 
 title: ""
 
 list:
-  - enable: true
+  - enable: false
     name: "Personal"
     description: "We care about their success. For us real relationships feel real"
     price:
