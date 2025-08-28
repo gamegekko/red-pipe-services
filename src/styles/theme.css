@@ -15,10 +15,10 @@
   --color-border-dark: #292525;
   --color-theme-dark: #0a0a0a;
   --color-theme-darker: #131312;
-  --color-theme-light: #f6f5f3;
+  --color-theme-light: #f90b0b;
   --color-text-default: #2e2e2e;
   --color-dark: #0a0c00;
-  --color-light: #f90b0b;
+  --color-light: #f6f5f3;
 
   /* Screen */
   --breakpoint-*: initial;
